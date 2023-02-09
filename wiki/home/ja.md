@@ -8,4 +8,4 @@ layout: "home"
 
 ここには何もない...
 
-direct link back to [english](/wiki/en/home)
+direct link back to [english](/wiki/en/home/)
